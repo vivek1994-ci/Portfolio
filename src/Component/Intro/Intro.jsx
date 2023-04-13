@@ -17,7 +17,7 @@ const Intro = () => {
         <div className="i-left">
             <div className="i-name">
                 <span>Hy! I Am</span>
-                <span>Vivek Rajpurohit</span>
+                <span>Vivek Rajpurohit Ujjain</span>
                 <span>Frontend Developer with high level of Expireance
                     in web designing and development, producting the quality work </span>
             </div>
